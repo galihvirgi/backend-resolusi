@@ -6,3 +6,4 @@ LATIHAN BACKEND
 - Mempelajari Pull
 - Mempelajari Commit
 - Mempelajari Merge
+- Mempelajari Checkout
