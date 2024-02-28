@@ -1,7 +1,7 @@
 LATIHAN BACKEND
-- Mempelajari CSS
 - Mempelajari GIT
 - Mempelajari GITHUB
 - Mempelajari Repository
 - Mempelajari Push
 - Mempelajari Pull
+- Mempelajari Commit
