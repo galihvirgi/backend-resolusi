@@ -3,3 +3,5 @@ LATIHAN BACKEND
 - Mempelajari GIT
 - Mempelajari GITHUB
 - Mempelajari Repository
+- Mempelajari Push
+- Mempelajari Pull
