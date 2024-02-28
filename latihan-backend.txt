@@ -5,3 +5,4 @@ LATIHAN BACKEND
 - Mempelajari Push
 - Mempelajari Pull
 - Mempelajari Commit
+- Mempelajari Javascript
