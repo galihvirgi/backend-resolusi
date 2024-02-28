@@ -5,5 +5,5 @@ LATIHAN BACKEND
 - Mempelajari Push
 - Mempelajari Pull
 - Mempelajari Commit
-- Mempelajari Merge
-- Mempelajari Checkout
+- Mempelajari Javascript
+
